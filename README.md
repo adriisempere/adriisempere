@@ -1,16 +1,25 @@
-## Hi there 👋
+## Adrián Sempere
+Soy desarrollador independiente con interés en la programación y la automatización. Trabajo en proyectos personales donde priorizo código claro, soluciones simples y aprendizaje práctico a través de la experimentación.
+Me gusta crear herramientas, scripts y prototipos técnicos, entendiendo los sistemas por dentro y evitando complejidad innecesaria.
 
-<!--
-**adriisempere/adriisempere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologías
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>Git / Github</li>
+  <li>Automatización de Tareas</li>
+</ul>
 
-Here are some ideas to get you started:
+📂 En este perfil verás: 
+<ol>
+  <li>Proyectos Personales</li>
+  <li>Pruebas de conceptos</li>
+  <li>Utilidades y Scripts</li>
+  <li>Experimentos técnicos</li>
+</ol>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧭 Enfoque:
+Código simple · Aprendizaje continuo · Soluciones prácticas
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
