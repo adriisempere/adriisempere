@@ -53,13 +53,13 @@
       </td>
       <td width="50%" valign="top">
         <h2>📊 Estadísticas GitHub</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=adriisempere&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
       </td>
     </tr>
   </table>
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriisempere&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 
   <br>
   <br>
