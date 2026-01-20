@@ -2,7 +2,7 @@
   
   # Hola, soy Adrián Sempere 👋
   
-  ### Desarrollador Independiente | Entusiasta de la Automatización
+  ### Desarrollador Independiente | Entusiasta de la Programación
   
   <p align="center">
     <i>"Código simple · Aprendizaje continuo · Soluciones prácticas"</i>
@@ -35,7 +35,7 @@
   <p>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Automatización-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Automation" />
+    <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="IA" />
   </p>
 
   <br>
