@@ -39,28 +39,17 @@
   </p>
 
   <br>
-
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%" valign="top">
-        <h2>📂 En este perfil verás:</h2>
-        <ul>
-            <li>🔭 <b>Proyectos Personales:</b> Aplicaciones completas.</li>
-            <li>💡 <b>Pruebas de Concepto:</b> Validaciones técnicas rápidas.</li>
-            <li>🛠️ <b>Utilidades y Scripts:</b> Automatización del día a día.</li>
-            <li>🧪 <b>Experimentos:</b> Aprendizaje práctico ("Learning by doing").</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h2>📊 Estadísticas GitHub</h2>
+      <td width="50%" valign="top" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=adriisempere&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
+      </td>
+      <td width="50%" valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriisempere&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
       </td>
     </tr>
   </table>
-
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriisempere&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-
   <br>
   <br>
   
