@@ -2,7 +2,7 @@
   
   # Hola, soy Adrián Sempere 👋
   
-  ### Desarrollador Independiente | Entusiasta de la Programación
+  ### Desarrollador Web
   
   <p align="center">
     <i>"Código simple · Aprendizaje continuo · Soluciones prácticas"</i>
@@ -11,12 +11,12 @@
   ---
   
   <p align="left">
-    Soy un desarrollador enfocado en la <b>claridad y la eficiencia</b>. Me especializo en crear herramientas, scripts y prototipos técnicos, priorizando siempre entender cómo funcionan los sistemas por dentro para evitar la complejidad innecesaria.
+    Soy un desarrollador enfocado en la <b>claridad y la eficiencia</b>. Me centro en crear herramientas, scripts y prototipos técnicos, priorizando siempre entender cómo funcionan los sistemas por dentro para evitar la complejidad innecesaria.
   </p>
 
   <br>
 
-  <h2>🛠️ Arsenal Tecnológico</h2>
+  <h2>Tecnologías</h2>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
