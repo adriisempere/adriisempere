@@ -39,12 +39,6 @@
   </p>
 
   <br>
-  <p align="center">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adriisempere&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adriisempere&layout=compact&theme=radical&hide_border=true" />
-  </p>
-  <br>
-  <br>
   <br>
   
   <p align="center">
