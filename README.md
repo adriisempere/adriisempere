@@ -1,9 +1,5 @@
 <!--
-  README de perfil de GitHub · Adrián
-  Antes de publicar, busca y sustituye:
-    TU-USUARIO            -> tu usuario de GitHub (aparece en los widgets de estadísticas)
-    TU-EMAIL@EJEMPLO.COM  -> tu email
-    TU-WEB-NOTION         -> la URL de tu portfolio ("miweb")
+  README de perfil de GitHub · Adrián (adriisempere)
   Paleta: amarillo #FCEE0A · cian #00F0FF · rojo #FF003C · fondo #0D1117
 -->
 
@@ -11,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCEE0A,100:FF003C&height=230&section=header&text=Adri%C3%A1n&fontSize=68&fontColor=0D1117&fontAlignY=38&desc=Desarrollador%20web%20%C2%B7%20Ciberseguridad%20%C2%B7%20Gamer&descSize=20&descAlignY=60&animation=fadeIn" alt="Cabecera del perfil de Adrián" width="100%"/>
 
-<a href="https://github.com/TU-USUARIO">
+<a href="https://github.com/adriisempere">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=FCEE0A&center=true&vCenter=true&width=720&height=50&lines=Desarrollador+web+autodidacta;Especializ%C3%A1ndome+en+ciberseguridad;Montando+mi+laboratorio+de+pentesting+y+forense;Construyendo+JARVIS%3A+mi+asistente+personal+con+IA">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=C2185B&center=true&vCenter=true&width=720&height=50&lines=Desarrollador+web+autodidacta;Especializ%C3%A1ndome+en+ciberseguridad;Montando+mi+laboratorio+de+pentesting+y+forense;Construyendo+JARVIS%3A+mi+asistente+personal+con+IA" alt="Desarrollador web autodidacta, especializándome en ciberseguridad" />
@@ -23,7 +19,7 @@
 <img src="https://img.shields.io/badge/Omarchy-Arch_Linux-FCEE0A?style=for-the-badge&logo=archlinux&logoColor=0D1117&labelColor=0D1117" alt="Omarchy (Arch Linux)"/>
 <img src="https://img.shields.io/badge/Ciberseguridad-en_progreso-FF003C?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117" alt="Ciberseguridad en progreso"/>
 <img src="https://img.shields.io/badge/Freelance-abierto-00F0FF?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Abierto a proyectos freelance"/>
-<img src="https://komarev.com/ghpvc/?username=TU-USUARIO&style=for-the-badge&color=FF003C&labelColor=0D1117&label=VISITAS" alt="Visitas al perfil"/>
+<img src="https://komarev.com/ghpvc/?username=adriisempere&style=for-the-badge&color=FF003C&labelColor=0D1117&label=VISITAS" alt="Visitas al perfil"/>
 
 </div>
 
@@ -104,7 +100,7 @@ Me interesan el análisis forense, la detección de amenazas, las auditorías de
 | **Night City** | Juego que mezcla un clon de *Breach Protocol*, un roguelike de texto y un asistente de lore con IA | 📐 En diseño |
 | **Aprende a programar jugando** | App web estilo Duolingo con editor HTML/CSS/JS en vivo y retos progresivos | 📐 En diseño |
 
-<!-- Cuando tengas los repos, enlaza cada proyecto: **[JARVIS](https://github.com/TU-USUARIO/jarvis)** -->
+<!-- Cuando tengas los repos, enlaza cada proyecto: **[JARVIS](https://github.com/adriisempere/jarvis)** -->
 
 ---
 
@@ -119,10 +115,10 @@ Me interesan el análisis forense, la detección de amenazas, las auditorías de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FCEE0A&icon_color=00F0FF&text_color=C9D1D9&locale=es" alt="Estadísticas de GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FCEE0A&text_color=C9D1D9&locale=es" alt="Lenguajes más usados"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adriisempere&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FCEE0A&icon_color=00F0FF&text_color=C9D1D9&locale=es" alt="Estadísticas de GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriisempere&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FCEE0A&text_color=C9D1D9&locale=es" alt="Lenguajes más usados"/>
 
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=dark&hide_border=true&background=0D1117&ring=FCEE0A&fire=FF003C&currStreakNum=FCEE0A&sideNums=C9D1D9&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&locale=es" alt="Racha de contribuciones"/>
+<img src="https://streak-stats.demolab.com?user=adriisempere&theme=dark&hide_border=true&background=0D1117&ring=FCEE0A&fire=FF003C&currStreakNum=FCEE0A&sideNums=C9D1D9&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&locale=es" alt="Racha de contribuciones"/>
 
 </div>
 
@@ -138,9 +134,9 @@ Estrategia profunda y mapas enormes (Crusader Kings), historia medieval, Cyberpu
 
 <div align="center">
 
-<a href="mailto:TU-EMAIL@EJEMPLO.COM"><img src="https://img.shields.io/badge/Email-FCEE0A?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/></a>
-<a href="TU-WEB-NOTION"><img src="https://img.shields.io/badge/Portfolio-FF003C?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/TU-USUARIO"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub"/></a>
+<a href="mailto:adriisempere@proton.me"><img src="https://img.shields.io/badge/Email-FCEE0A?style=for-the-badge&logo=protonmail&logoColor=0D1117" alt="Email"/></a>
+<a href="https://app.notion.com/p/Adri-n-Portfolio-2ef66516b1d781e3b1c4ca6cbbb31e43"><img src="https://img.shields.io/badge/Portfolio-FF003C?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/adriisempere"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub"/></a>
 
 <br/><br/>
 
